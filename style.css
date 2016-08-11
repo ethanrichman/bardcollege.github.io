@@ -94,3 +94,7 @@ img{
     background: -moz-linear-gradient(red, yellow); /* For Firefox 3.6 to 15 */
     background: linear-gradient(red, yellow); /* Standard syntax */
 }
+
+img {
+ border: 1px solid black;   
+}
