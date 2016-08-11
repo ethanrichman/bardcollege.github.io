@@ -1,6 +1,6 @@
 body {
     background-color: #e3eef7;
-    color: #ff9933;
+    color: #ff66cc;
     font-size: 150%;
     line-height: 1.4;
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
@@ -14,7 +14,7 @@ h1{
 
 h3{
     margin:0px;
-    color: #ff9933;
+    color: #ff66cc;
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
